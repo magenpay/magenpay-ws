@@ -1,7 +1,7 @@
 <h1 align="center">🧩 Magenpay Websocket Client</h1>
 
 <p align="center">
-  <img src="https://magenpay.com/_nuxt/magenpay_logo.D4eZEL4F.png" height="60" alt="Magenpay Logo"/>
+  <img src="https://magenpay.com/_nuxt/magenpay_logo.D4eZEL4F.png" height="50" alt="Magenpay Logo"/>
 </p>
 
 <p align="center">
