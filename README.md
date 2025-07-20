@@ -1,8 +1,13 @@
 <h1 align="center">🧩 Magenpay Websocket Client</h1>
 
+
+
 <p align="center">
   <img src="https://magenpay.com/_nuxt/magenpay_logo.D4eZEL4F.png" height="50" alt="Magenpay Logo"/>
 </p>
+
+
+
 
 <p align="center">
   <strong>Real-time WebSocket Client for Magenpay Ecosystem</strong><br/>
@@ -29,14 +34,14 @@ data-merchant-uuid: (Required) Your unique merchant identifier.
 
 | Attribute            | Required | Description                         |
 | -------------------- | -------- | ----------------------------------- |
-| `data-user-id`       | ✅        | Your unique **user identifier**     |
+| `data-user-id`       | ✅        | Your unique **paymentId identifier**     |
 | `data-merchant-uuid` | ✅        | Your unique **merchant identifier** |
 
 
 ```html
 <script 
   src="https://cdn.jsdelivr.net/gh/magenpay/magenpay-ws@v1.0.0/client.min.js"
-  data-user-id="YOUR_USER_ID"
+  data-user-id="YOUR_PAYMENT_ID"
   data-merchant-uuid="YOUR_MERCHANT_UUID"
   async 
   defer>
