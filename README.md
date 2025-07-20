@@ -1,10 +1,10 @@
 <h1 align="center">🧩 Magenpay Websocket Client</h1>
 
-<br><br><br>
+<br><br>
 <p align="center">
   <img src="https://magenpay.com/_nuxt/magenpay_logo.D4eZEL4F.png" height="50" sty alt="Magenpay Logo"/>
 </p>
-<br><br><br>
+<br><br>
 
 <p align="center">
   <strong>Real-time WebSocket Client for Magenpay Ecosystem</strong><br/>
